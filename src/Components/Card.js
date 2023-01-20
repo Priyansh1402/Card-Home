@@ -15,7 +15,7 @@ export const Card = () => {
     </div>
     <div className="cardInside">
       <h3 className="back">warm-the-house party🥂</h3>
-      <h2>Come help make our new house!</h2>
+      {/* <h2>Come help make our new house!</h2> */}
       <h2 >-- Bairagi Family --</h2>
       <h2>Dear One,</h2>
       <p className='p1'> Join us for a housewarming party</p>
