@@ -50,7 +50,7 @@ body {
 }
 .happy {
   font-family: 'Courier New',  monospace;
-  font-size: 30px;
+  font-size: 1.8rem;
   border-radius: 10px;
   margin: 30px;
   background-image: linear-gradient(120deg, rgb(241, 162, 143) 0%, #FCF6CF 100%);
@@ -143,10 +143,10 @@ body {
 
 h2 {
   font-family: "Brush Script MT", cursive;
-  margin-top: -30px;
+  margin-top: -1.7rem;
   margin-left: -30px;
   margin-bottom: 50px;
-  font-size: 20px;
+  font-size: 1.3rem;
   text-align: center;
 }
 p {
@@ -168,10 +168,10 @@ p {
 }
 .back {
   font-family: "Brush Script MT", cursive;
-  font-size: 25px;
+  font-size: 1.6rem;
   color: #333;
   text-align: center;
-  margin: 30px;
+  margin: 25px;
   margin-left: 30px;
 }
 .p1{
